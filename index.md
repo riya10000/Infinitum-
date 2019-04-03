@@ -19,7 +19,7 @@ HiveMind allows small hobbyist beekeepers to detect a possible cause of colony c
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://t3.ftcdn.net/jpg/01/04/08/60/240_F_104086032_4bYfxogcIuq6GpWPtuAq4oSysku4I35D.jpg)
+[Link](https://t3.ftcdn.net/jpg/01/04/08/60/240_F_104086032_4bYfxogcIuq6GpWPtuAq4oSysku4I35D.jpg) and ![Image](https://t3.ftcdn.net/jpg/01/04/08/60/240_F_104086032_4bYfxogcIuq6GpWPtuAq4oSysku4I35D.jpg)
 
 ```
 
